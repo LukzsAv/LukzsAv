@@ -9,7 +9,7 @@
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End][(https://cubos.academy/cursos/desenvolvimento-de-software-v2)] @ [ [Cubos Academy](https://cubos.academy/)]
 
-👩‍💻 Atualmente estou em transição de carreira para a área de Desenvolvimento de Sistemas.
+👩‍💻 Atualmente estou em transição de carreira de Técnico de informática para a área de Desenvolvimento de Sistemas.
 
 🔎 Também sou curioso sobre Tecnologia, Programação e Desenvolvimento de Software.
 
